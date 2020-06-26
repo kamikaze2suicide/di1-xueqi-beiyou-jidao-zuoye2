@@ -1,7 +1,4 @@
-# template-that-im-using
-Good optional template for describing your work step by step.
-
-# (Name of Work)
+# 第一学期北邮计导作业二 
 
 ## 总结
   - [开始](#开始)
@@ -19,22 +16,29 @@ Good optional template for describing your work step by step.
 ### 正在安装
 使用控制台打开cvv文件(windows)
 
-	cd (name of file).cvv
+	cd 实验3_3_确定成绩等级.cvv
 	
 ## 运行测试
 
 #### 注意: 
 开始
-
-- 输出
-	
+### 例如 1
 - 输入
+		0
+- 输出
+		E
+### 例如 2
+- 输入
+		62
+- 输出
+		D
 
 结束
 
 ## 部署方式
 您可以使用复制粘贴使用此代码
 
+-判断学生字母成绩
 
 ## 建于
 使用DevCpp+编写的代码  https://sourceforge.net/projects/orwelldevcpp/
