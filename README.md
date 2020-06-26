@@ -43,7 +43,7 @@
 ## 部署方式
 您可以使用复制粘贴使用此代码
 
--判断学生字母成绩
+- 判断学生字母成绩
 
 ## 建于
 使用DevCpp+编写的代码  https://sourceforge.net/projects/orwelldevcpp/
